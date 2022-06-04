@@ -1,0 +1,451 @@
+2022-06-02 12:28:12,832 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 12:28:12,832 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 12:28:12,832 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 12:28:12,836 INFO RPC interface 'supervisor' initialized
+2022-06-02 12:28:12,836 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 12:28:12,836 INFO supervisord started with pid 1
+2022-06-02 12:28:13,840 INFO spawned: 'cron' with pid 7
+2022-06-02 12:28:13,844 INFO spawned: 'php' with pid 8
+2022-06-02 12:28:14,889 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 12:28:14,890 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 15:46:14,143 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 15:46:14,143 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 15:46:14,143 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 15:46:14,148 INFO RPC interface 'supervisor' initialized
+2022-06-02 15:46:14,148 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 15:46:14,148 INFO supervisord started with pid 1
+2022-06-02 15:46:15,152 INFO spawned: 'cron' with pid 7
+2022-06-02 15:46:15,156 INFO spawned: 'php' with pid 8
+2022-06-02 15:46:16,196 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 15:46:16,197 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 15:50:21,217 WARN received SIGQUIT indicating exit request
+2022-06-02 15:50:21,217 INFO waiting for cron, php to die
+2022-06-02 15:50:21,227 INFO stopped: php (exit status 0)
+2022-06-02 15:50:21,228 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 15:50:29,148 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 15:50:29,148 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 15:50:29,148 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 15:50:29,154 INFO RPC interface 'supervisor' initialized
+2022-06-02 15:50:29,154 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 15:50:29,155 INFO supervisord started with pid 1
+2022-06-02 15:50:30,159 INFO spawned: 'cron' with pid 7
+2022-06-02 15:50:30,163 INFO spawned: 'php' with pid 8
+2022-06-02 15:50:31,206 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 15:50:31,206 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 15:52:35,384 WARN received SIGQUIT indicating exit request
+2022-06-02 15:52:35,384 INFO waiting for cron, php to die
+2022-06-02 15:52:35,393 INFO stopped: php (exit status 0)
+2022-06-02 15:52:35,395 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 15:52:45,520 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 15:52:45,520 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 15:52:45,520 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 15:52:45,524 INFO RPC interface 'supervisor' initialized
+2022-06-02 15:52:45,524 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 15:52:45,525 INFO supervisord started with pid 1
+2022-06-02 15:52:46,529 INFO spawned: 'cron' with pid 7
+2022-06-02 15:52:46,533 INFO spawned: 'php' with pid 8
+2022-06-02 15:52:47,572 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 15:52:47,572 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 15:56:45,888 WARN received SIGQUIT indicating exit request
+2022-06-02 15:56:45,888 INFO waiting for cron, php to die
+2022-06-02 15:56:45,897 INFO stopped: php (exit status 0)
+2022-06-02 15:56:45,898 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 16:01:27,116 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 16:01:27,116 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 16:01:27,116 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 16:01:27,121 INFO RPC interface 'supervisor' initialized
+2022-06-02 16:01:27,121 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 16:01:27,121 INFO supervisord started with pid 1
+2022-06-02 16:01:28,125 INFO spawned: 'cron' with pid 8
+2022-06-02 16:01:28,129 INFO spawned: 'php' with pid 9
+2022-06-02 16:01:29,175 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 16:01:29,176 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 16:04:26,421 WARN received SIGQUIT indicating exit request
+2022-06-02 16:04:26,421 INFO waiting for cron, php to die
+2022-06-02 16:04:26,429 INFO stopped: php (exit status 0)
+2022-06-02 16:04:26,430 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 16:05:08,969 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 16:05:08,969 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 16:05:08,969 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 16:05:08,974 INFO RPC interface 'supervisor' initialized
+2022-06-02 16:05:08,975 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 16:05:08,975 INFO supervisord started with pid 1
+2022-06-02 16:05:09,979 INFO spawned: 'cron' with pid 8
+2022-06-02 16:05:09,983 INFO spawned: 'php' with pid 9
+2022-06-02 16:05:11,022 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 16:05:11,023 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 16:09:17,363 WARN received SIGQUIT indicating exit request
+2022-06-02 16:09:17,363 INFO waiting for cron, php to die
+2022-06-02 16:09:17,372 INFO stopped: php (exit status 0)
+2022-06-02 16:09:17,373 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 16:12:11,039 WARN received SIGQUIT indicating exit request
+2022-06-02 16:12:11,040 INFO waiting for cron, php to die
+2022-06-02 16:12:11,049 INFO stopped: php (exit status 0)
+2022-06-02 16:12:11,050 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 16:12:54,397 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 16:12:54,397 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 16:12:54,397 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 16:12:54,400 INFO RPC interface 'supervisor' initialized
+2022-06-02 16:12:54,400 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 16:12:54,400 INFO supervisord started with pid 1
+2022-06-02 16:12:55,405 INFO spawned: 'cron' with pid 7
+2022-06-02 16:12:55,409 INFO spawned: 'php' with pid 8
+2022-06-02 16:12:56,447 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 16:12:56,447 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 16:42:24,360 WARN received SIGQUIT indicating exit request
+2022-06-02 16:42:24,361 INFO waiting for cron, php to die
+2022-06-02 16:42:24,369 INFO stopped: php (exit status 0)
+2022-06-02 16:42:24,370 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 17:25:10,720 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 17:25:10,720 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 17:25:10,720 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 17:25:10,723 INFO RPC interface 'supervisor' initialized
+2022-06-02 17:25:10,724 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 17:25:10,724 INFO supervisord started with pid 1
+2022-06-02 17:25:11,727 INFO spawned: 'cron' with pid 7
+2022-06-02 17:25:11,730 INFO spawned: 'php' with pid 8
+2022-06-02 17:25:12,763 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 17:25:12,764 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 17:28:37,210 WARN received SIGQUIT indicating exit request
+2022-06-02 17:28:37,211 INFO waiting for cron, php to die
+2022-06-02 17:28:37,219 INFO stopped: php (exit status 0)
+2022-06-02 17:28:37,220 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 17:31:25,407 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 17:31:25,407 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 17:31:25,407 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 17:31:25,411 INFO RPC interface 'supervisor' initialized
+2022-06-02 17:31:25,411 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 17:31:25,411 INFO supervisord started with pid 1
+2022-06-02 17:31:26,415 INFO spawned: 'cron' with pid 7
+2022-06-02 17:31:26,418 INFO spawned: 'php' with pid 8
+2022-06-02 17:31:27,451 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 17:31:27,451 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 17:31:30,455 WARN received SIGQUIT indicating exit request
+2022-06-02 17:31:30,456 INFO waiting for cron, php to die
+2022-06-02 17:31:30,462 INFO stopped: php (exit status 0)
+2022-06-02 17:31:30,463 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 17:46:42,397 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 17:46:42,397 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 17:46:42,397 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 17:46:42,402 INFO RPC interface 'supervisor' initialized
+2022-06-02 17:46:42,402 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 17:46:42,402 INFO supervisord started with pid 1
+2022-06-02 17:46:43,405 INFO spawned: 'cron' with pid 7
+2022-06-02 17:46:43,408 INFO spawned: 'php' with pid 8
+2022-06-02 17:46:44,438 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 17:46:44,439 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 17:50:01,434 WARN received SIGQUIT indicating exit request
+2022-06-02 17:50:01,435 INFO waiting for cron, php to die
+2022-06-02 17:50:01,440 INFO stopped: php (exit status 0)
+2022-06-02 17:50:01,441 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 17:50:01,441 INFO reaped unknown pid 11 (exit status 255)
+2022-06-02 18:02:38,728 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 18:02:38,728 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 18:02:38,728 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 18:02:38,732 INFO RPC interface 'supervisor' initialized
+2022-06-02 18:02:38,732 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 18:02:38,733 INFO supervisord started with pid 1
+2022-06-02 18:02:39,736 INFO spawned: 'cron' with pid 7
+2022-06-02 18:02:39,740 INFO spawned: 'php' with pid 8
+2022-06-02 18:02:40,779 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:02:40,779 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:03:03,811 WARN received SIGQUIT indicating exit request
+2022-06-02 18:03:03,811 INFO waiting for cron, php to die
+2022-06-02 18:03:03,818 INFO stopped: php (exit status 0)
+2022-06-02 18:03:03,818 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 18:07:52,256 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 18:07:52,256 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 18:07:52,256 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 18:07:52,259 INFO RPC interface 'supervisor' initialized
+2022-06-02 18:07:52,259 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 18:07:52,260 INFO supervisord started with pid 1
+2022-06-02 18:07:53,263 INFO spawned: 'cron' with pid 7
+2022-06-02 18:07:53,266 INFO spawned: 'php' with pid 8
+2022-06-02 18:07:54,296 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:07:54,296 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:09:35,441 WARN received SIGQUIT indicating exit request
+2022-06-02 18:09:35,442 INFO waiting for cron, php to die
+2022-06-02 18:09:35,449 INFO stopped: php (exit status 0)
+2022-06-02 18:09:35,450 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 18:10:01,022 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 18:10:01,022 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 18:10:01,022 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 18:10:01,026 INFO RPC interface 'supervisor' initialized
+2022-06-02 18:10:01,026 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 18:10:01,026 INFO supervisord started with pid 1
+2022-06-02 18:10:02,030 INFO spawned: 'cron' with pid 7
+2022-06-02 18:10:02,032 INFO spawned: 'php' with pid 8
+2022-06-02 18:10:03,066 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:10:03,066 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:10:24,095 WARN received SIGQUIT indicating exit request
+2022-06-02 18:10:24,096 INFO waiting for cron, php to die
+2022-06-02 18:10:24,103 INFO stopped: php (exit status 0)
+2022-06-02 18:10:24,104 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 18:11:38,138 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 18:11:38,138 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 18:11:38,138 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 18:11:38,142 INFO RPC interface 'supervisor' initialized
+2022-06-02 18:11:38,142 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 18:11:38,142 INFO supervisord started with pid 1
+2022-06-02 18:11:39,145 INFO spawned: 'cron' with pid 8
+2022-06-02 18:11:39,147 INFO spawned: 'php' with pid 9
+2022-06-02 18:11:40,180 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:11:40,180 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:22:29,837 WARN received SIGQUIT indicating exit request
+2022-06-02 18:22:29,838 INFO waiting for cron, php to die
+2022-06-02 18:22:29,849 INFO stopped: php (exit status 0)
+2022-06-02 18:22:29,850 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 18:23:02,661 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 18:23:02,661 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 18:23:02,661 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 18:23:02,666 INFO RPC interface 'supervisor' initialized
+2022-06-02 18:23:02,666 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 18:23:02,666 INFO supervisord started with pid 1
+2022-06-02 18:23:03,670 INFO spawned: 'cron' with pid 7
+2022-06-02 18:23:03,675 INFO spawned: 'php' with pid 8
+2022-06-02 18:23:04,714 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:23:04,714 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:23:18,738 WARN received SIGQUIT indicating exit request
+2022-06-02 18:23:18,739 INFO waiting for cron, php to die
+2022-06-02 18:23:18,749 INFO stopped: php (exit status 0)
+2022-06-02 18:23:18,750 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 18:28:35,230 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 18:28:35,230 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 18:28:35,230 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 18:28:35,235 INFO RPC interface 'supervisor' initialized
+2022-06-02 18:28:35,235 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 18:28:35,236 INFO supervisord started with pid 1
+2022-06-02 18:28:36,240 INFO spawned: 'cron' with pid 7
+2022-06-02 18:28:36,244 INFO spawned: 'php' with pid 8
+2022-06-02 18:28:37,289 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:28:37,289 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:28:38,290 WARN received SIGQUIT indicating exit request
+2022-06-02 18:28:38,291 INFO waiting for cron, php to die
+2022-06-02 18:28:38,296 INFO stopped: php (exit status 0)
+2022-06-02 18:28:38,297 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 18:57:53,175 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 18:57:53,175 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 18:57:53,175 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 18:57:53,180 INFO RPC interface 'supervisor' initialized
+2022-06-02 18:57:53,180 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 18:57:53,180 INFO supervisord started with pid 1
+2022-06-02 18:57:54,185 INFO spawned: 'cron' with pid 8
+2022-06-02 18:57:54,189 INFO spawned: 'php' with pid 9
+2022-06-02 18:57:55,227 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:57:55,227 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:58:00,234 WARN received SIGQUIT indicating exit request
+2022-06-02 18:58:00,235 INFO waiting for cron, php to die
+2022-06-02 18:58:00,244 INFO stopped: php (exit status 0)
+2022-06-02 18:58:00,245 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 18:59:02,640 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 18:59:02,640 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 18:59:02,640 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 18:59:02,645 INFO RPC interface 'supervisor' initialized
+2022-06-02 18:59:02,645 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 18:59:02,645 INFO supervisord started with pid 1
+2022-06-02 18:59:03,649 INFO spawned: 'cron' with pid 7
+2022-06-02 18:59:03,654 INFO spawned: 'php' with pid 8
+2022-06-02 18:59:04,694 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:59:04,694 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 18:59:37,741 WARN received SIGQUIT indicating exit request
+2022-06-02 18:59:37,742 INFO waiting for cron, php to die
+2022-06-02 18:59:37,749 INFO stopped: php (exit status 0)
+2022-06-02 18:59:37,750 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 21:22:01,802 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 21:22:01,802 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 21:22:01,802 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 21:22:01,807 INFO RPC interface 'supervisor' initialized
+2022-06-02 21:22:01,807 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 21:22:01,808 INFO supervisord started with pid 1
+2022-06-02 21:22:02,812 INFO spawned: 'cron' with pid 7
+2022-06-02 21:22:02,815 INFO spawned: 'php' with pid 8
+2022-06-02 21:22:03,860 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 21:22:03,860 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 21:22:06,865 WARN received SIGQUIT indicating exit request
+2022-06-02 21:22:06,865 INFO waiting for cron, php to die
+2022-06-02 21:22:06,875 INFO stopped: php (exit status 0)
+2022-06-02 21:22:06,876 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 21:27:06,068 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 21:27:06,068 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 21:27:06,068 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 21:27:06,074 INFO RPC interface 'supervisor' initialized
+2022-06-02 21:27:06,074 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 21:27:06,075 INFO supervisord started with pid 1
+2022-06-02 21:27:07,079 INFO spawned: 'cron' with pid 8
+2022-06-02 21:27:07,081 INFO spawned: 'php' with pid 9
+2022-06-02 21:27:08,125 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 21:27:08,126 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 21:31:38,794 WARN received SIGQUIT indicating exit request
+2022-06-02 21:31:38,795 INFO waiting for cron, php to die
+2022-06-02 21:31:38,804 INFO stopped: php (exit status 0)
+2022-06-02 21:31:38,806 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 21:50:34,369 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 21:50:34,369 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 21:50:34,369 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 21:50:34,374 INFO RPC interface 'supervisor' initialized
+2022-06-02 21:50:34,374 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 21:50:34,375 INFO supervisord started with pid 1
+2022-06-02 21:50:35,378 INFO spawned: 'cron' with pid 8
+2022-06-02 21:50:35,382 INFO spawned: 'php' with pid 9
+2022-06-02 21:50:36,417 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 21:50:36,417 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 21:52:19,651 WARN received SIGQUIT indicating exit request
+2022-06-02 21:52:19,651 INFO waiting for cron, php to die
+2022-06-02 21:52:19,659 INFO stopped: php (exit status 0)
+2022-06-02 21:52:19,661 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 22:02:45,410 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 22:02:45,411 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 22:02:45,411 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 22:02:45,416 INFO RPC interface 'supervisor' initialized
+2022-06-02 22:02:45,416 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 22:02:45,417 INFO supervisord started with pid 1
+2022-06-02 22:02:46,421 INFO spawned: 'cron' with pid 8
+2022-06-02 22:02:46,426 INFO spawned: 'php' with pid 9
+2022-06-02 22:02:47,464 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:02:47,464 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:02:48,466 WARN received SIGQUIT indicating exit request
+2022-06-02 22:02:48,467 INFO waiting for cron, php to die
+2022-06-02 22:02:48,476 INFO stopped: php (exit status 0)
+2022-06-02 22:02:48,476 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 22:03:58,321 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 22:03:58,321 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 22:03:58,321 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 22:03:58,326 INFO RPC interface 'supervisor' initialized
+2022-06-02 22:03:58,326 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 22:03:58,326 INFO supervisord started with pid 1
+2022-06-02 22:03:59,331 INFO spawned: 'cron' with pid 8
+2022-06-02 22:03:59,334 INFO spawned: 'php' with pid 9
+2022-06-02 22:04:00,373 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:04:00,373 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:04:01,375 WARN received SIGQUIT indicating exit request
+2022-06-02 22:04:01,375 INFO waiting for cron, php to die
+2022-06-02 22:04:01,384 INFO stopped: php (exit status 0)
+2022-06-02 22:04:01,385 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 22:05:51,643 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 22:05:51,643 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 22:05:51,644 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 22:05:51,647 INFO RPC interface 'supervisor' initialized
+2022-06-02 22:05:51,647 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 22:05:51,648 INFO supervisord started with pid 1
+2022-06-02 22:05:52,652 INFO spawned: 'cron' with pid 8
+2022-06-02 22:05:52,657 INFO spawned: 'php' with pid 9
+2022-06-02 22:05:53,701 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:05:53,701 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:05:55,705 WARN received SIGQUIT indicating exit request
+2022-06-02 22:05:55,705 INFO waiting for cron, php to die
+2022-06-02 22:05:55,712 INFO stopped: php (exit status 0)
+2022-06-02 22:05:55,713 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 22:10:57,499 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 22:10:57,500 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 22:10:57,500 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 22:10:57,506 INFO RPC interface 'supervisor' initialized
+2022-06-02 22:10:57,506 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 22:10:57,506 INFO supervisord started with pid 1
+2022-06-02 22:10:58,510 INFO spawned: 'cron' with pid 8
+2022-06-02 22:10:58,514 INFO spawned: 'php' with pid 9
+2022-06-02 22:10:59,555 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:10:59,555 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:11:01,559 WARN received SIGQUIT indicating exit request
+2022-06-02 22:11:01,559 INFO waiting for cron, php to die
+2022-06-02 22:11:01,567 INFO stopped: php (exit status 0)
+2022-06-02 22:11:01,569 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 22:29:00,759 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 22:29:00,759 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 22:29:00,759 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 22:29:00,764 INFO RPC interface 'supervisor' initialized
+2022-06-02 22:29:00,764 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 22:29:00,764 INFO supervisord started with pid 1
+2022-06-02 22:29:01,768 INFO spawned: 'cron' with pid 8
+2022-06-02 22:29:01,771 INFO spawned: 'php' with pid 9
+2022-06-02 22:29:02,819 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:29:02,819 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:29:02,819 WARN received SIGQUIT indicating exit request
+2022-06-02 22:29:02,820 INFO waiting for cron, php to die
+2022-06-02 22:29:02,828 INFO stopped: php (exit status 0)
+2022-06-02 22:29:02,829 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 22:30:14,108 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 22:30:14,108 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 22:30:14,108 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 22:30:14,112 INFO RPC interface 'supervisor' initialized
+2022-06-02 22:30:14,112 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 22:30:14,112 INFO supervisord started with pid 1
+2022-06-02 22:30:15,116 INFO spawned: 'cron' with pid 8
+2022-06-02 22:30:15,119 INFO spawned: 'php' with pid 9
+2022-06-02 22:30:16,155 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:30:16,155 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:30:16,156 WARN received SIGQUIT indicating exit request
+2022-06-02 22:30:16,156 INFO waiting for cron, php to die
+2022-06-02 22:30:16,164 INFO stopped: php (exit status 0)
+2022-06-02 22:30:16,165 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 22:30:31,201 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 22:30:31,201 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 22:30:31,201 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 22:30:31,204 INFO RPC interface 'supervisor' initialized
+2022-06-02 22:30:31,204 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 22:30:31,205 INFO supervisord started with pid 1
+2022-06-02 22:30:32,209 INFO spawned: 'cron' with pid 8
+2022-06-02 22:30:32,213 INFO spawned: 'php' with pid 9
+2022-06-02 22:30:33,248 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:30:33,248 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:30:41,259 WARN received SIGQUIT indicating exit request
+2022-06-02 22:30:41,259 INFO waiting for cron, php to die
+2022-06-02 22:30:41,268 INFO stopped: php (exit status 0)
+2022-06-02 22:30:41,269 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 22:30:57,143 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 22:30:57,144 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 22:30:57,144 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 22:30:57,148 INFO RPC interface 'supervisor' initialized
+2022-06-02 22:30:57,148 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 22:30:57,149 INFO supervisord started with pid 1
+2022-06-02 22:30:58,153 INFO spawned: 'cron' with pid 8
+2022-06-02 22:30:58,156 INFO spawned: 'php' with pid 9
+2022-06-02 22:30:59,193 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:30:59,193 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:31:35,575 WARN received SIGQUIT indicating exit request
+2022-06-02 22:31:35,576 INFO waiting for cron, php to die
+2022-06-02 22:31:35,585 INFO stopped: php (exit status 0)
+2022-06-02 22:31:35,586 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 22:31:50,576 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 22:31:50,576 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 22:31:50,576 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 22:31:50,579 INFO RPC interface 'supervisor' initialized
+2022-06-02 22:31:50,579 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 22:31:50,580 INFO supervisord started with pid 1
+2022-06-02 22:31:51,583 INFO spawned: 'cron' with pid 9
+2022-06-02 22:31:51,586 INFO spawned: 'php' with pid 10
+2022-06-02 22:31:52,623 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:31:52,623 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:32:17,660 WARN received SIGQUIT indicating exit request
+2022-06-02 22:32:17,660 INFO waiting for cron, php to die
+2022-06-02 22:32:17,670 INFO stopped: php (exit status 0)
+2022-06-02 22:32:17,672 INFO stopped: cron (terminated by SIGTERM)
+2022-06-02 22:32:32,947 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-02 22:32:32,947 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-02 22:32:32,947 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-02 22:32:32,956 INFO RPC interface 'supervisor' initialized
+2022-06-02 22:32:32,956 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-02 22:32:32,956 INFO supervisord started with pid 1
+2022-06-02 22:32:33,960 INFO spawned: 'cron' with pid 9
+2022-06-02 22:32:33,964 INFO spawned: 'php' with pid 10
+2022-06-02 22:32:35,002 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:32:35,002 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-02 22:32:48,552 INFO exited: cron (terminated by SIGTERM; not expected)
+2022-06-02 22:32:48,555 INFO spawned: 'cron' with pid 13
+2022-06-02 22:32:48,556 WARN received SIGTERM indicating exit request
+2022-06-02 22:32:48,557 INFO waiting for cron, php to die
+2022-06-02 22:32:48,565 INFO stopped: php (exit status 0)
+2022-06-02 22:32:48,566 INFO stopped: cron (terminated by SIGTERM)
+2022-06-04 05:07:28,206 CRIT Supervisor is running as root.  Privileges were not dropped because no user is specified in the config file.  If you intend to run as root, you can set user=root in the config file to avoid this message.
+2022-06-04 05:07:28,206 INFO Included extra file "/etc/supervisor/conf.d/cron.conf" during parsing
+2022-06-04 05:07:28,206 INFO Included extra file "/etc/supervisor/conf.d/php.conf" during parsing
+2022-06-04 05:07:28,214 INFO RPC interface 'supervisor' initialized
+2022-06-04 05:07:28,214 CRIT Server 'unix_http_server' running without any HTTP authentication checking
+2022-06-04 05:07:28,214 INFO supervisord started with pid 1
+2022-06-04 05:07:29,218 INFO spawned: 'cron' with pid 8
+2022-06-04 05:07:29,220 INFO spawned: 'php' with pid 9
+2022-06-04 05:07:30,324 INFO success: cron entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-04 05:07:30,324 INFO success: php entered RUNNING state, process has stayed up for > than 1 seconds (startsecs)
+2022-06-04 05:09:27,479 WARN received SIGQUIT indicating exit request
+2022-06-04 05:09:27,480 INFO waiting for cron, php to die
+2022-06-04 05:09:27,496 INFO stopped: php (exit status 0)
+2022-06-04 05:09:27,497 INFO stopped: cron (terminated by SIGTERM)

@@ -1,0 +1,50 @@
+
+Warning: require(/var/www/app/vendor/autoload.php): failed to open stream: No such file or directory in /var/www/app/bin/console on line 16
+
+Call Stack:
+    0.0010     404192   1. {main}() /var/www/app/bin/console:0
+
+
+Fatal error: require(): Failed opening required '/var/www/app/vendor/autoload.php' (include_path='.:/usr/local/lib/php') in /var/www/app/bin/console on line 16
+
+Call Stack:
+    0.0010     404192   1. {main}() /var/www/app/bin/console:0
+
+
+Fatal error: Composer detected issues in your platform: Your Composer dependencies require a PHP version ">= 8.1.0". You are running 7.4.29. in /var/www/app/vendor/composer/platform_check.php on line 24
+
+Call Stack:
+    0.0020     396328   1. {main}() /var/www/app/bin/console:0
+    0.0022     401840   2. require_once('/var/www/app/vendor/autoload_runtime.php') /var/www/app/bin/console:11
+    0.0023     402800   3. require_once('/var/www/app/vendor/autoload.php') /var/www/app/vendor/autoload_runtime.php:5
+    0.0024     416352   4. ComposerAutoloaderInit5051b02005bdf049732c33f76c900a3b::getLoader() /var/www/app/vendor/autoload.php:7
+    0.0025     420984   5. require('/var/www/app/vendor/composer/platform_check.php') /var/www/app/vendor/composer/autoload_real.php:25
+    0.0025     421560   6. trigger_error() /var/www/app/vendor/composer/platform_check.php:24
+
+Could not open input file: /var/www/app/bin/console
+Could not open input file: /var/www/app/bin/console
+Could not open input file: /var/www/app/bin/console
+#!/usr/bin/env php
+
+Parse error: syntax error, unexpected 'static' (T_STATIC) in /var/www/app/vendor/symfony/dotenv/Dotenv.php on line 52
+
+#!/usr/bin/env php
+
+Parse error: syntax error, unexpected 'static' (T_STATIC) in /var/www/app/vendor/symfony/dotenv/Dotenv.php on line 52
+
+#!/usr/bin/env php
+
+Parse error: syntax error, unexpected 'static' (T_STATIC) in /var/www/app/vendor/symfony/dotenv/Dotenv.php on line 52
+
+#!/usr/bin/env php
+
+Parse error: syntax error, unexpected 'static' (T_STATIC) in /var/www/app/vendor/symfony/dotenv/Dotenv.php on line 52
+
+#!/usr/bin/env php
+
+Parse error: syntax error, unexpected 'static' (T_STATIC) in /var/www/app/vendor/symfony/dotenv/Dotenv.php on line 52
+
+#!/usr/bin/env php
+
+Parse error: syntax error, unexpected 'static' (T_STATIC) in /var/www/app/vendor/symfony/dotenv/Dotenv.php on line 52
+
